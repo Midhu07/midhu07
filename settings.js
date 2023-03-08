@@ -12,9 +12,9 @@ global.headerText = "Anya by Pika" // text for header of menu
 global.DocumentTitle = "MASTER⚔️PIKA" 
 
 
-global.ownername = "Jain sir yt"   // Owner name //        
-global.ownernumber = ['919074657754'] 
-global.socialm = "𝗜𝗻𝘀𝘁𝗮 : jain_sir_yt" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
+global.ownername = "MIDHUN"   // Owner name //        
+global.ownernumber = ['919539790050'] 
+global.socialm = "𝗜𝗻𝘀𝘁𝗮 : that__null__vector_" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
 global.region = "India" // your country name
