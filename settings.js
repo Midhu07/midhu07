@@ -12,7 +12,7 @@ global.headerText = "Anya by Pika" // text for header of menu
 global.DocumentTitle = "MASTER⚔️PIKA" 
 
 
-global.ownername = "MIDHUN"   // Owner name //        
+global.ownername = "MIDHUN-P"   // Owner name //        
 global.ownernumber = ['919539790050'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : that__null__vector_" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
